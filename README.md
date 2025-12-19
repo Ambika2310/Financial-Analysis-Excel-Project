@@ -1,29 +1,28 @@
 # Financial Analysis Project (Excel)
 
-## Overview
-This project demonstrates the practical application of Excel-based financial analysis techniques used in investment appraisal and loan evaluation.
+## 📌 Overview
+This project showcases practical financial analysis using Microsoft Excel, covering key techniques used in investment evaluation and loan analysis.
 
-The analysis covers key concepts such as:
+## 🧠 Concepts Included
 - Present Value (PV)
-- Net Present Value (NPV & XNPV)
+- Net Present Value (NPV / XNPV)
 - Internal Rate of Return (IRR, XIRR, MIRR)
 - EMI and Loan Amortization
-- Investment Decision Analysis
+- Cash flow timing and decision analysis
 
-## Tools & Technologies
+## 💻 Tools Used
 - Microsoft Excel
 - Microsoft Word / PDF
 
-## Key Highlights
-- Comparative investment analysis using NPV across different cash flow timings
-- Handling irregular cash flows using XNPV and XIRR
-- Identification of unique, multiple, and no IRR scenarios
-- Use of MIRR to overcome limitations of traditional IRR
-- Loan repayment analysis including interest and principal components
+## 📦 Files in This Repository
+- **Financial_Analysis_Project_Report.pdf** – Analytical project report with insights and screenshots
+- **Financial_Analysis_Model.xlsx** – Excel model with all calculations and functions
 
-## Files Included
-- **Financial_Analysis_Project_Report.pdf** – Final analytical report with insights and interpretations
-- **Financial_Analysis_Model.xlsx** – Excel workbook containing financial calculations and models
+## 🎯 Key Highlights
+- NPV used for comparing investment alternatives
+- XNPV and XIRR for irregular cash flows
+- MIRR for resolving multiple IRR issues
+- EMI computation with interest vs principal split
 
-## Outcome
-The project highlights how Excel financial functions can be effectively used to support informed financial decision-making in real-world scenarios.
+## 🧾 Purpose
+This repository demonstrates real-world application of financial concepts using Excel to support decision-making and analytical reasoning.
